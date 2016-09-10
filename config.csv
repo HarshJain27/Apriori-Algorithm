@@ -1,0 +1,5 @@
+input,Resources/input.csv
+output,Resources/output.csv
+support,0.2
+confidence,0.2
+flag,1
